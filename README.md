@@ -1,3 +1,3 @@
 ﻿# UnnamedGalacticConflict
 
-Scripts can be foudn in Assets/Scripts
+Scripts can be found in Assets/Scripts
